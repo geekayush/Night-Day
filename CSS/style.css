@@ -11,6 +11,10 @@
     right: 0;
 }
 
+#orb:hover {
+    cursor: pointer;
+}
+
 #sky {
     height: 46.2em;
     width: 100%;
